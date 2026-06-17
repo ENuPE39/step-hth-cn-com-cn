@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ENuPE39.github.io/step-hth-cn-com-cn/sitemap.xml
